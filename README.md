@@ -4,6 +4,13 @@
 
 Arduino Grove NeoPixel Multiboard (4x NeoPixel)
 
+### Hardware Image
+
+![Hardwareaufbau](./grove_neopixel_multiboard.jpg)
+
+> [!TIP]
+> You need a external power supply for a higher quantity of neoPixel
+
 Code for handling 4 different digital Pins for NeoPixel Control
 
 > Used the source from adafruit.com
@@ -44,9 +51,3 @@ Used Hardware:
 * RGB LCD Screen https://www.seeedstudio.com/Grove-LCD-RGB-Backlight.html
 * Grove - Yellow LED Button (SKU 111020045) https://www.seeedstudio.com/Grove-Yellow-LED-Button.html 
 
-### Hardware Image
-
-![Hardwareaufbau](./grove_neopixel_multiboard.jpg)
-
-> [!TIP]
-> You need a external power supply for a higher quantity of neoPixel
