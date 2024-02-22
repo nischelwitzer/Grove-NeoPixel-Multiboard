@@ -51,3 +51,11 @@ Used Hardware:
 * RGB LCD Screen https://www.seeedstudio.com/Grove-LCD-RGB-Backlight.html
 * Grove - Yellow LED Button (SKU 111020045) https://www.seeedstudio.com/Grove-Yellow-LED-Button.html 
 
+### Hardware Image
+
+![STL 3D Printfiles](./grove_stl.png)
+
+> [!TIP]
+> Use a woodbase for fixing the printed grove holder
+
+
